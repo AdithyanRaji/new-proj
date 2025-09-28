@@ -85,3 +85,12 @@ body{
     width: 250px;
     height: auto;
 }
+
+#book{
+        background-color: lightblue;
+    padding:20px;
+    border-radius: 25%;
+    border-color: transparent;
+    color:darkblue;
+    font-weight: 600
+}
